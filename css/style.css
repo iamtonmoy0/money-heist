@@ -1,0 +1,48 @@
+/* css of hero section starts here */
+
+.hero {
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    height: 70px;
+    border: 2px solid rgb(210, 15, 15);
+}
+
+img {
+    height: 50px;
+    width: 90px;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(191, 191, 191)
+}
+
+.sub-but {
+    height: 50px;
+    width: 95px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.middle-letter {
+    color: rgb(198, 198, 198);
+    background-color: red;
+    border-radius: 6px;
+}
+
+#middle-name {
+    text-decoration: wavy;
+    font-family: 'Roboto Slab', serif;
+}
+
+
+/* end of hero section */
+
+
+/* slider section starts here */
+
+.carousel-item img {
+    height: 600px;
+}
+
+
+/* slider section ends here */
